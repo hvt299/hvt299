@@ -1,7 +1,7 @@
 # 🔴 Hi, I'm Mr. T | Once a Gunner, Always a Gunner! ⚪️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1emR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/H7ZpGv1zG8I6AAdV6S/giphy.gif" width="600" alt="Arsenal Goal Celebration">
+  <img src="https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/cropped-GettyImages-2248079659%20%281%29_umwsch8b.jpg?h=39af1086&auto=webp&itok=Ve-KeObz" width="600" alt="Arsenal Goal Celebration">
 </div>
 
 ### ⚽ "Victoria Concordia Crescit" (Victory Through Harmony)
