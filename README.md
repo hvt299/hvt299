@@ -41,7 +41,13 @@ I am a passionate **Software Developer** and **AI Researcher** who loves buildin
 ### 📊 GitHub Stats (The Scouting Report)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&theme=radical&font_color=ef0107" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&theme=tokyonight&border_color=ef0107&icon_color=ef0107&title_color=ef0107" alt="hvt299's GitHub stats" height="170px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&theme=tokyonight&border_color=ef0107" alt="hvt299's Top Languages" height="170px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvt299&theme=tokyonight&fire=ef0107&ring=ef0107" alt="hvt299's Streak" />
 </p>
 
 ---
