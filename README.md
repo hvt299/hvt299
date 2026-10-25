@@ -141,20 +141,44 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&hide_border=true&card_width=467&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Statistics" width="100%" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&icon_color=EF0107&text_color=24292F" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" alt="GitHub Statistics" width="100%" />
+      </picture>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=8&hide_border=true&card_width=467&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages in Public Repositories" width="100%" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=30363D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hvt299&theme=light&background=FFFFFF&border=E1E4E8&fire=EF0107&ring=EF0107&currStreakLabel=EF0107&sideNums=24292F&sideLabels=57606A&dates=57606A" />
+        <img src="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=30363D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107" alt="GitHub Streak Stats" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=6&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=6&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&text_color=24292F" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=6&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" alt="Top Languages in Public Repositories" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hvt299&repo=Verisem-Web&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hvt299&repo=Verisem-Web&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&icon_color=EF0107&text_color=24292F" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hvt299&repo=Verisem-Web&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" alt="Featured Repository: Verisem Web" width="100%" />
+      </picture>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=21262D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake.svg" alt="Contribution Snake Animation" width="100%" />
+  </picture>
 </p>
 
 <sub>GitHub statistics reflect public repository contributions and code distribution. Stats card displays overall ranking score; language metrics represent distribution across open projects.</sub>
