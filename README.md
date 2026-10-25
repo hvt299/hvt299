@@ -36,10 +36,10 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Pushed **1 commit** to [hvt299/Vet-Clinic-Web](https://github.com/hvt299/Vet-Clinic-Web) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/ViTree-Backend](https://github.com/hvt299/ViTree-Backend) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/Christmas-Wishes-Web](https://github.com/hvt299/Christmas-Wishes-Web) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/Tet-Countdown-Backend](https://github.com/hvt299/Tet-Countdown-Backend) · `2026-10-24`
-- Pushed **1 commit** to [hvt299/Tet-Countdown-Web](https://github.com/hvt299/Tet-Countdown-Web) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/Tet-Countdown-Web](https://github.com/hvt299/Tet-Countdown-Web) · `2026-10-24`
 <!-- recent-activity:end -->
 
@@ -142,9 +142,9 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
   <tr>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&icon_color=EF0107&text_color=24292F" />
-        <img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" alt="GitHub Statistics" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&card_width=495&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&card_width=495&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&icon_color=EF0107&text_color=24292F" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&card_width=495&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" alt="GitHub Statistics" width="100%" />
       </picture>
     </td>
     <td width="50%" valign="top">
@@ -158,28 +158,20 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
   <tr>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=6&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=6&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&text_color=24292F" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&langs_count=6&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" alt="Top Languages in Public Repositories" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=donut&card_width=445&langs_count=5&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=donut&card_width=445&langs_count=5&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&text_color=24292F" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=donut&card_width=445&langs_count=5&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" alt="Top Languages Donut Chart" width="100%" />
       </picture>
     </td>
     <td width="50%" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hvt299&repo=Verisem-Web&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hvt299&repo=Verisem-Web&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&icon_color=EF0107&text_color=24292F" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hvt299&repo=Verisem-Web&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" alt="Featured Repository: Verisem Web" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&card_width=495&langs_count=7&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&card_width=495&langs_count=7&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&text_color=24292F" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&card_width=495&langs_count=7&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" alt="Top Languages Detailed List" width="100%" />
       </picture>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/hvt299/hvt299/output/github-snake.svg" alt="Contribution Snake Animation" width="100%" />
-  </picture>
-</p>
 
 <sub>GitHub statistics reflect public repository contributions and code distribution. Stats card displays overall ranking score; language metrics represent distribution across open projects.</sub>
 
