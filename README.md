@@ -36,11 +36,11 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
 - Pushed **1 commit** to [hvt299/Vet-Clinic-Web](https://github.com/hvt299/Vet-Clinic-Web) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/ViTree-Backend](https://github.com/hvt299/ViTree-Backend) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/Christmas-Wishes-Web](https://github.com/hvt299/Christmas-Wishes-Web) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/Tet-Countdown-Backend](https://github.com/hvt299/Tet-Countdown-Backend) · `2026-10-24`
-- Pushed **1 commit** to [hvt299/Tet-Countdown-Web](https://github.com/hvt299/Tet-Countdown-Web) · `2026-10-24`
 <!-- recent-activity:end -->
 
 ---
@@ -136,44 +136,17 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 
 ---
 
-### 📊 The Scouting Report (GitHub Overview & Stats)
+### 📊 The Scouting Report (GitHub Streak)
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&card_width=495&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&card_width=495&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&icon_color=EF0107&text_color=24292F" />
-        <img src="https://github-readme-stats.vercel.app/api?username=hvt299&show_icons=true&card_width=495&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&icon_color=EF0107&text_color=C9D1D9" alt="GitHub Statistics" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=30363D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hvt299&theme=light&background=FFFFFF&border=E1E4E8&fire=EF0107&ring=EF0107&currStreakLabel=EF0107&sideNums=24292F&sideLabels=57606A&dates=57606A" />
-        <img src="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=30363D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107" alt="GitHub Streak Stats" width="100%" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=donut&card_width=445&langs_count=5&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=donut&card_width=445&langs_count=5&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&text_color=24292F" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=donut&card_width=445&langs_count=5&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" alt="Top Languages Donut Chart" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&card_width=495&langs_count=7&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&card_width=495&langs_count=7&bg_color=FFFFFF&border_color=E1E4E8&title_color=EF0107&text_color=24292F" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvt299&layout=compact&card_width=495&langs_count=7&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=EF0107&text_color=C9D1D9" alt="Top Languages Detailed List" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=30363D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hvt299&theme=light&background=FFFFFF&border=E1E4E8&fire=EF0107&ring=EF0107&currStreakLabel=EF0107&sideNums=24292F&sideLabels=57606A&dates=57606A" />
+    <img src="https://streak-stats.demolab.com/?user=hvt299&theme=dark&background=0D1117&border=30363D&fire=EF0107&ring=EF0107&currStreakLabel=EF0107" alt="GitHub Streak Stats" />
+  </picture>
+</p>
 
-<sub>GitHub statistics reflect public repository contributions and code distribution. Stats card displays overall ranking score; language metrics represent distribution across open projects.</sub>
+<sub>GitHub streak metrics reflect daily consistency and public contribution activity.</sub>
 
 ---
 
