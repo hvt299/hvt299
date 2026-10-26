@@ -37,10 +37,10 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 
 <!-- recent-activity:start -->
 - Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
+- Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
 - Pushed **1 commit** to [hvt299/Vet-Clinic-Web](https://github.com/hvt299/Vet-Clinic-Web) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/ViTree-Backend](https://github.com/hvt299/ViTree-Backend) · `2026-10-24`
 - Pushed **1 commit** to [hvt299/Christmas-Wishes-Web](https://github.com/hvt299/Christmas-Wishes-Web) · `2026-10-24`
-- Pushed **1 commit** to [hvt299/Tet-Countdown-Backend](https://github.com/hvt299/Tet-Countdown-Backend) · `2026-10-24`
 <!-- recent-activity:end -->
 
 ---
