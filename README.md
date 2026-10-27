@@ -36,11 +36,11 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
 - Pushed **1 commit** to [hvt299/Grocery-Store-Backend](https://github.com/hvt299/Grocery-Store-Backend) · `2026-10-25`
 - Pushed **1 commit** to [hvt299/Market-App](https://github.com/hvt299/Market-App) · `2026-10-25`
 - Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
 - Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
-- Pushed **1 commit** to [hvt299/Vet-Clinic-Web](https://github.com/hvt299/Vet-Clinic-Web) · `2026-10-24`
 <!-- recent-activity:end -->
 
 ---
