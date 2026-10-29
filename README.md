@@ -36,11 +36,11 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Pushed **1 commit** to [hvt299/Exam-Generator-Backend](https://github.com/hvt299/Exam-Generator-Backend) · `2026-10-28`
+- Pushed **1 commit** to [hvt299/Exam-Generator-Backend](https://github.com/hvt299/Exam-Generator-Backend) · `2026-10-28`
+- Pushed **1 commit** to [hvt299/Exam-Generator-Web](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
+- Pushed **1 commit** to [hvt299/Exam-Generator-Web](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
 - Pull request merged: [hvt299/Exam-Generator-Web#9](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
-- Pull request merged: [hvt299/Exam-Generator-Backend#9](https://github.com/hvt299/Exam-Generator-Backend) · `2026-10-28`
-- Pull request opened: [hvt299/Exam-Generator-Web#9](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
-- Pull request opened: [hvt299/Exam-Generator-Backend#9](https://github.com/hvt299/Exam-Generator-Backend) · `2026-10-28`
-- Pushed **1 commit** to [hvt299/hvt299](https://github.com/hvt299/hvt299) · `2026-10-25`
 <!-- recent-activity:end -->
 
 ---
