@@ -36,11 +36,11 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Published [AutoVideoLocal MVP 1.0.0](https://github.com/hvt299/auto-video-local/releases/tag/v1.0.0) in [hvt299/auto-video-local](https://github.com/hvt299/auto-video-local) · `2026-11-08`
+- Created branch `main` in [hvt299/auto-video-local](https://github.com/hvt299/auto-video-local) · `2026-11-07`
 - Pushed **1 commit** to [hvt299/Exam-Generator-Backend](https://github.com/hvt299/Exam-Generator-Backend) · `2026-10-28`
 - Pushed **1 commit** to [hvt299/Exam-Generator-Backend](https://github.com/hvt299/Exam-Generator-Backend) · `2026-10-28`
 - Pushed **1 commit** to [hvt299/Exam-Generator-Web](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
-- Pushed **1 commit** to [hvt299/Exam-Generator-Web](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
-- Pull request merged: [hvt299/Exam-Generator-Web#9](https://github.com/hvt299/Exam-Generator-Web) · `2026-10-28`
 <!-- recent-activity:end -->
 
 ---
