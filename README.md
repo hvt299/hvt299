@@ -36,11 +36,11 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Pull request merged: [hvt299/Verisem-Backend#52](https://github.com/hvt299/Verisem-Backend) · `2026-11-23`
+- Pull request merged: [hvt299/Verisem-Web#39](https://github.com/hvt299/Verisem-Web) · `2026-11-23`
+- Pull request opened: [hvt299/Verisem-Web#39](https://github.com/hvt299/Verisem-Web) · `2026-11-23`
+- Pull request opened: [hvt299/Verisem-Backend#52](https://github.com/hvt299/Verisem-Backend) · `2026-11-23`
 - Pushed **1 commit** to [hvt299/auto-video-local](https://github.com/hvt299/auto-video-local) · `2026-11-09`
-- Created branch `feature/1.0.1-ui-reliability` in [hvt299/auto-video-local](https://github.com/hvt299/auto-video-local) · `2026-11-09`
-- Pushed **1 commit** to [hvt299/auto-video-local](https://github.com/hvt299/auto-video-local) · `2026-11-08`
-- Published [AutoVideoLocal 1.0.1](https://github.com/hvt299/auto-video-local/releases/tag/v1.0.1) in [hvt299/auto-video-local](https://github.com/hvt299/auto-video-local) · `2026-11-09`
-- Pull request merged: [hvt299/auto-video-local#1](https://github.com/hvt299/auto-video-local) · `2026-11-09`
 <!-- recent-activity:end -->
 
 ---
