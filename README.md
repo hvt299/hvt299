@@ -36,11 +36,11 @@ I'm a Software Engineering student at the **Vietnam–Korea University of Inform
 ### ⚡ Recent Public Activity
 
 <!-- recent-activity:start -->
+- Created branch `feature/tet-tree-gifts-v2` in [hvt299/Tet-Countdown-Web](https://github.com/hvt299/Tet-Countdown-Web) · `2026-11-26`
+- Created branch `feature/christmas-tree-gifts-v2` in [hvt299/Tet-Countdown-Web](https://github.com/hvt299/Tet-Countdown-Web) · `2026-11-26`
+- Created branch `feature/christmas-tree-gifts-v2` in [hvt299/Tet-Countdown-Backend](https://github.com/hvt299/Tet-Countdown-Backend) · `2026-11-26`
+- Pushed **1 commit** to [hvt299/Christmas-Wishes-Web](https://github.com/hvt299/Christmas-Wishes-Web) · `2026-11-26`
 - Created branch `feature/tet-tree-gifts-v2` in [hvt299/Tet-Countdown-Backend](https://github.com/hvt299/Tet-Countdown-Backend) · `2026-11-26`
-- Pushed **1 commit** to [hvt299/Christmas-Wishes-Web](https://github.com/hvt299/Christmas-Wishes-Web) · `2026-11-24`
-- Pushed **1 commit** to [hvt299/Christmas-Wishes-Backend](https://github.com/hvt299/Christmas-Wishes-Backend) · `2026-11-24`
-- Pushed **1 commit** to [hvt299/Christmas-Wishes-Backend](https://github.com/hvt299/Christmas-Wishes-Backend) · `2026-11-23`
-- Pushed **1 commit** to [hvt299/Verisem-Backend](https://github.com/hvt299/Verisem-Backend) · `2026-11-23`
 <!-- recent-activity:end -->
 
 ---
